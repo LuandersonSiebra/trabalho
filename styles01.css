@@ -1,0 +1,163 @@
+
+.backgorud {
+    background-color: rgb(226, 236, 236);
+    text-align: center;
+}
+
+.font {
+    font-family: Arial, Helvetica, sans-serif ;
+    color: rgb(88, 86, 88); 
+    font-size: 20px;
+ }
+
+ .font2 {
+    font-family: Arial, Helvetica, sans-serif ;
+    color: rgb(88, 86, 88); 
+    font-size: 15px;
+ }
+
+.centro4 {
+    text-align: center;
+}
+
+.btn {
+    margin-left: 10%;
+    border: 1px solid black;
+}
+.font3 {
+    font-family: Arial, Helvetica, sans-serif ;
+    color: rgb(88, 86, 88); 
+    font-size: 25px;
+ }
+
+ .backgorud1 {
+    background-color: rgb(235, 230, 230);
+    text-align: center;
+}
+
+
+.FG2 {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-right: 5vh;
+    flex-direction: column-reverse;
+
+}
+
+.margen23 {
+ margin: 25px;
+
+}
+
+.custom-button {
+    background-color: #707270; /* Cor de fundo do botão */
+    border: none; /* Remove a borda */
+    color: white; /* Cor do texto */
+    padding: 5px 10px; /* Espaçamento interno do botão */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Remove a decoração de texto */
+    display: inline-block; /* Permite definir largura e altura */
+    font-size: 16px; /* Tamanho da fonte */
+    margin: 10px 5px; /* Margens externas do botão */
+    cursor: pointer; /* Altera o cursor ao passar o mouse sobre o botão */
+    border-radius: 8px; /* Borda arredondada */
+    transition-duration: 0.4s; /* Duração da transição ao passar o mouse */
+}
+
+.custom-button:hover {
+    background-color: #37f308; /* Cor de fundo do botão ao passar o mouse */
+}
+
+.img-lado {
+    float: left;
+    margin-right: 20px;
+}
+
+.img-lado2 {
+    float: left;
+    margin-right: 20px;
+    display: flex 10px; 
+}
+
+.margen66 {
+    margin-top: 50px;
+}
+
+.mgt {
+    margin-top: 50px;
+}
+
+.mgt2 {
+    margin-top: 50px;
+}
+
+.textMINE {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.font-mine {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-right: 100px;
+    margin-top: 26px;
+}
+
+.container {
+    width: 50%; /* Ou o valor desejado */
+  }
+  
+  img {
+    float: left;
+    margin-right: 15px; /* Espaçamento entre a imagem e o texto */
+    margin-left: 50px;
+  }
+.fx {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 500px;
+}
+
+#lowongan{
+    background-color: rgba(255, 255, 255, 0.945);
+}
+#lowongan h1{
+    font-family:Arial, Helvetica, sans-serif;
+}
+#lowongan p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+#lowongan b{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.px-rs{
+ display: flex;
+
+}
+
+
+.hgh-3 { 
+    width: 40%;
+    height: 500px;
+    background-color: red;
+    border: 1px solid black;
+    margin: 50px;
+}
+
+.margen24 {
+    margin: 50px;
+}
+
+.margen-50
+{
+    margin: 50px;
+}
+
+.margen22 {
+    margin: 50px;
+    font-size: 15px;
+}
